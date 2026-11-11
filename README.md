@@ -2,10 +2,15 @@
 # Sistem Monitoring Stok dan Penjualan Kantin Kampus
 
 | Nama Lengkap : IGI HERMAWAN 
+
 | NIM : C2583207026 
+
 | Kelas : PTI3A 
+
 | Mata Kuliah : Algoritma dan Pemrograman Lanjutan 
+
 | Dosen Pengampu : Taofik Muhammad, M.Kom 
+
 | Nama Proyek : Proyek-Array-C-C2583207026 
 
 ## Deskripsi Singkat
